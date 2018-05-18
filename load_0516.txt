@@ -1,0 +1,75 @@
+face:SAAS平台部署脚本
+svnadmin load E:\Repositories\face < E:\dump\face.weekly_backup.20180414.dump.CL4143
+
+svnadmin load E:\Repositories\face < E:\dump\face.daily_backup.20180414.dump.CL1-CL4143
+
+svnadmin load E:\Repositories\face < E:\dump\face.daily_backup.20180423.dump.CL4144-CL4144
+
+svnadmin load E:\Repositories\face < E:\dump\face.daily_backup.20180424.dump.CL4145-CL4178
+
+svnadmin load E:\Repositories\face < E:\dump\face.daily_backup.20180427.dump.CL4179-CL4179
+
+svnadmin load E:\Repositories\face < E:\dump\face.daily_backup.20180503.dump.CL4180-CL4181
+
+svnadmin load E:\Repositories\face < E:\dump\face.weekly_backup.20180508.dump.CL4182 
+
+svnadmin load E:\Repositories\face < E:\dump\face.weekly_backup.20180512.dump.CL4183  
+
+
+opzoonface:访客APP代码地址
+svnadmin load E:\Repositories\opzoon_face < E:\dump\opzoon_face.weekly_backup.20180414.dump.CL511
+
+HDWARE:硬件资料
+svnadmin load E:\Repositories\OFR-CR01 < E:\dump\OFR-CR01.weekly_backup.20180414.dump.CL8
+
+svnadmin load E:\Repositories\OFR-H01 < E:\dump\OFR-H01.weekly_backup.20180414.dump.CL249
+svnadmin load E:\Repositories\OFR-H01 < E:\dump\OFR-H01.daily_backup.20180424.dump.CL250-CL250 
+
+svnadmin load E:\Repositories\OFR-H01-D02 < E:\dump\OFR-H01-D02.weekly_backup.20180330.dump.CL12
+svnadmin load E:\Repositories\OFR-H01-D03 < E:\dump\OFR-H01-D03.weekly_backup.20180330.dump.CL7
+svnadmin load E:\Repositories\OFR-H01-D04 < E:\dump\OFR-H01-D04.weekly_backup.20180330.dump.CL3
+svnadmin load E:\Repositories\OFR-H01-G02 < E:\dump\OFR-H01-G02.weekly_backup.20180330.dump.CL5
+svnadmin load E:\Repositories\OFR-H01-G03 < E:\dump\OFR-H01-G03.weekly_backup.20180330.dump.CL10
+svnadmin load E:\Repositories\OFR-H02 < E:\dump\OFR-H02.weekly_backup.20180414.dump.CL22
+svnadmin load E:\Repositories\OFR-H03 < E:\dump\OFR-H03.weekly_backup.20180414.dump.CL16
+
+ProjectDoc:项目文档
+svnadmin load E:\Repositories\ProjectDoc < E:\dump\ProjectDoc.weekly_backup.20180414.dump.CL1020
+svnadmin load E:\Repositories\ProjectDoc < E:\dump\ProjectDoc.daily_backup.20180426.dump.CL1021-CL1021
+
+svnadmin load E:\Repositories\ProjectDoc < E:\dump\ProjectDoc.daily_backup.20180516.dump.CL1022-CL1022
+
+algorithm
+svnadmin load E:\Repositories\algorithm < E:\dump\algorithm.weekly_backup.20180414.dump.CL1231
+svnadmin load E:\Repositories\algorithm < E:\dump\algorithm.daily_backup.20180417.dump.CL1232-CL1236
+
+oIDS
+svnadmin load E:\Repositories\oIDS < E:\dump\oIDS.weekly_backup.20180414.dump.CL1414
+
+SDK
+svnadmin load E:\Repositories\SDK < E:\dump\SDK.weekly_backup.20180414.dump.CL142
+
+BD02
+svnadmin load E:\Repositories\BD02 < E:\dump\BD02.daily_backup.20180330.dump.CL1-CL82
+
+
+svnadmin load H:\Repositories\PCT < H:\SVN\Archive\PCT\PCTFullDump_20160815.dump
+
+
+svnadmin load D:\Repositories\PCT < D:\SVN\PCT\PCTFullDump_20160815.dump1
+
+
+
+BSP:
+svnadmin load E:\Repositories\BSP < E:\dump\BSP.weekly_backup.20180322.dump.CL1030
+
+svnadmin load E:\Repositories\BSP < E:\dump\BSP.daily_backup.20180327.dump.CL1031-CL1031
+
+svnadmin load E:\Repositories\BSP < E:\dump\BSP.daily_backup.20180328.dump.CL1032-CL1033
+
+
+svnadmin load E:\Repositories\BSP_RK1108 < E:\dump\BSP_RK1108.weekly_backup.20180322.dump.CL7
+
+
+svnadmin load E:\Repositories\Android < E:\dump\Android.weekly_backup.20180322.dump.CL4128
+
